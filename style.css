@@ -1,0 +1,39 @@
+
+
+.container-bzir{
+    display: flex;
+}
+.h11{
+    font-size: 50px;
+    color: #34221F;
+}
+.h12{
+    font-size: 50px;
+    margin-top: -30px;
+    color: #34221F;
+}
+p{
+    color: #34221F;
+    
+
+}
+.button{
+    background-color: #EBA352;
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+}
+.bagian-tulisan{
+    margin-left: 100px;
+    margin-top: 150px;
+    
+    
+}
+.bagian-gambar{
+   margin-left: 100px;
+}
+.buat-p{
+    
+}
